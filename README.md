@@ -10,7 +10,7 @@ It contains four random combinations：
 - symbols (!@#$%^&*()_+~`|}{[]:;?><,./-=)  
 
 ## get ready
-- I didn't install visual studio, so I choose to install make and cmake instead
+- you need to make sure the tools of make and cmake works
 - it depends on projects [FTLK](https://github.com/fltk/fltk/)
 	```bash
      cmake . -B build -G "MinGW Makefiles" --fresh
